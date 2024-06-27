@@ -24,7 +24,7 @@ step1: substract the target from first element of array(nums) in first iteration
 step2: Create a second loop which is one step ahead from first loop (j=i+1)
 step3:And check whether the substracted element is present in the array or not 
 step4:If substracted element is found in the array then return(i,j)
-step5:If substracted element is not found then increase i by 1 and follow again from first step
+step5:If substracted element is not found then increase i by 1 and follow again from first step 
 */
 
 
